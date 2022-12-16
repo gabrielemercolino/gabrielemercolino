@@ -1,6 +1,6 @@
 <!-- # Hi, I'm Gabriele
 -->
-<h1 align="center" >Attention: under construction</h1>
+<h1 align="center"> ⚠ Attention: under construction 🛠</h1>
 
 ## About me
 Hi there! My name is Gabriele and I'm an IT student at Sapienza university.
