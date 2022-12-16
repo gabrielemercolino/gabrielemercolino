@@ -1,6 +1,6 @@
 <!-- # Hi, I'm Gabriele
 -->
-<h1>Attention: under construction</h1>
+# Attention: under construction
 ## About me
 Hi there! My name is Gabriele and I'm an IT student at Sapienza university.
 I have always been fascinated by computers and programming and over the years I have learned different programming languages.
