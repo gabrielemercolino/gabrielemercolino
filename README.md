@@ -4,7 +4,7 @@
   <a href="https://t.me/ai_laic_ti" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="#" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=393888547436" target="_blank">
     <img src="https://img.shields.io/badge/-Whatsapp-darklime?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://twitter.com/gmercolino2003" target="_blank">
