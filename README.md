@@ -1,10 +1,11 @@
-<!-- # Hi, I'm Gabriele
--->
 <h1 align="center"> ⚠ Attention: under construction 🛠</h1>
-<h1 align="center">Hello there</h1>
+<h1 align="center">Hello there, I'm <bold>Gabriele</bold></h1>
 <div align="center">
-  <a href="https://t.me/@ai_laic_ti" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/ai_laic_ti" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a>
+    <img>
   </a>
 </div>
 
