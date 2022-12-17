@@ -34,7 +34,28 @@ I'm always looking to learn more and improve my skills.
 ![PYCHARM](https://img.shields.io/badge/-Pycharm-darkgreen?style=for-the-badge&logo=pycharm&logoColor=white)
 ![ANACONDA](https://img.shields.io/badge/-ANACONDA-green?style=for-the-badge&logo=anaconda&logoColor=white)
 
-
+## Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielemercolino&theme=transparent">
-</div>
+  <picture >
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=gabrielemercolino&show_icons=true&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielemercolino&show_icons=true" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemercolino&langs_count=3&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemercolino&langs_count=3"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemercolino&langs_count=3" />
+  </picture>
