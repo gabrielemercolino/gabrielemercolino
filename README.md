@@ -52,10 +52,9 @@ if __name__ == "__main__":
 ![ANACONDA](https://img.shields.io/badge/-ANACONDA-green?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ## Stats
-<div align="center">
   <picture >
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=gabrielemercolino&show_icons=true&theme=transparent"
+      srcset="https://github-readme-stats.vercel.app/api?username=gabrielemercolino&show_icons=true&theme=algolia"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -67,7 +66,7 @@ if __name__ == "__main__":
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemercolino&langs_count=3&theme=transparent"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemercolino&langs_count=3&theme=algolia"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -79,7 +78,7 @@ if __name__ == "__main__":
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielemercolino&theme=transparent"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielemercolino&theme=algolia"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -88,4 +87,3 @@ if __name__ == "__main__":
     />
     <img src="https://github-readme-stats.vercel.app/api/wakatimeusername=gabrielemercolino" />
   </picture>
-</div>
