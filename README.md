@@ -8,6 +8,10 @@ I have always been fascinated by computers and programming and over the years I 
 I worked on many different projects and I really enjoy building web applications.
 I'm always looking to learn more and improve my skills.
 
+```python
+
+```
+
 ## Languages
 <!--
 ![<Lang>](https://img.shields.io/badge/-<lang-name>-<right-color>?style=for-the-badge&logo=<lang-name>&logoColor=<logo-color>)
@@ -59,3 +63,4 @@ I'm always looking to learn more and improve my skills.
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemercolino&langs_count=3" />
   </picture>
+</div>
