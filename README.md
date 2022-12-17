@@ -4,24 +4,24 @@
   <a href="https://t.me/ai_laic_ti" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a>
-    <img>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Whatsapp-darklime?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://twitter.com/gmercolino2003" target="_blank">
+    <img src="https://img.shields.io/badge/-twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </div>
 
 ## About me
-Hi there! My name is Gabriele and I'm an IT student at Sapienza university.
-I have always been fascinated by computers and programming and over the years I have learned different programming languages.
-I worked on many different projects and I really enjoy building web applications.
-I'm always looking to learn more and improve my skills.
-
 ```python
 if __name__ == "__main__":
   me = {
-    "name": "Gabriele",
     "age": 19,
-    "interests": ["electronics", "programming"],
-    ""
+    "gender": "male",
+    "interests": ["electronics", "computers", "programming", "gaming"],
+    "others": [ "self tought developer", 
+                "built many personal projects, from telegram bots to web applications", 
+                "always looking to improve"]
   }
 ```
 
