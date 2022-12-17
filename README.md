@@ -9,10 +9,16 @@ I worked on many different projects and I really enjoy building web applications
 I'm always looking to learn more and improve my skills.
 
 ```python
-
+if __name__ == "__main__":
+  me = {
+    "name": "Gabriele",
+    "age": 19,
+    "interests": ["electronics", "programming"],
+    ""
+  }
 ```
 
-## Languages
+## Languages I used
 <!--
 ![<Lang>](https://img.shields.io/badge/-<lang-name>-<right-color>?style=for-the-badge&logo=<lang-name>&logoColor=<logo-color>)
 -->
@@ -62,5 +68,17 @@ I'm always looking to learn more and improve my skills.
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemercolino&langs_count=3" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielemercolino&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielemercolino"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatimeusername=gabrielemercolino" />
   </picture>
 </div>
