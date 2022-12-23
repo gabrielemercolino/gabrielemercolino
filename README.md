@@ -79,12 +79,12 @@ if __name__ == "__main__":
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielemercolino&theme=algolia"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielemercolino&theme=algolia&langs_count=6&layout=compact"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielemercolino"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielemercolino&langs_count=6&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/wakatimeusername=gabrielemercolino" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatimeusername=gabrielemercolino&langs_count=6&layout=compact" />
   </picture>
