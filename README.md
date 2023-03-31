@@ -1,4 +1,4 @@
-<h1 align="center"> ⚠ Attention: under construction 🛠</h1>
+<!-- <h1 align="center"> ⚠ Attention: under construction 🛠</h1> -->
 <h1 align="center">Hello there, I'm <bold>Gabriele</bold></h1>
 <div align="center">
   <a href="https://t.me/ai_laic_ti" target="_blank">
@@ -13,16 +13,22 @@
 </div>
 
 ## About me
-```python
-if __name__ == "__main__":
-  me = {
-    "age": 19,
-    "gender": "male",
-    "interests": ["electronics", "computers", "programming", "gaming"],
-    "others": [ "self tought developer", 
-                "built many personal projects, from telegram bots to web applications", 
-                "always looking to improve"]
+```java
+class AboutMe{
+  public static void main(String[] args){
+    Person me = new Person("Gabriele", "Mercolino", 19, Person.MALE);
+    
+    String[] interests = {"electronics", "computers", "programming", "gaming"};
+    String[] otherInfos = { "self tought developer", 
+                            "built many personal projects, from telegram bots to web applications", 
+                            "always looking to improve"};
+    
+    me.addInterests(interests);
+    me.addOtherInfo(otherInfo);
+    
+    me.print();
   }
+}
 ```
 
 ## Languages I used
