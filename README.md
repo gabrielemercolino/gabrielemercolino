@@ -24,7 +24,9 @@ class AboutMe{
                             "always looking to improve"};
     
     me.addInterests(interests);
-    me.addOtherInfo(otherInfo);
+    me.addOtherInfos(otherInfo);
+    
+    me.setCurrentInterest("learning Jave deeper");
     
     me.print();
   }
