@@ -13,24 +13,16 @@
 </div>
 
 ## About me
-```java
-class AboutMe{
-  public static void main(String[] args){
-    Person me = new Person("Gabriele", "Mercolino", 19, Person.MALE);
-    
-    String[] interests = {"electronics", "computers", "programming", "gaming"};
-    String[] otherInfos = { "self tought developer", 
-                            "built many personal projects, from telegram bots to web applications", 
-                            "always looking to improve"};
-    
-    me.addInterests(interests);
-    me.addOtherInfos(otherInfo);
-    
-    me.setCurrentInterest("learning Jave deeper");
-    
-    me.print();
+```python
+if __name__ == "__main__":
+  me = {
+    "age": 19,
+    "gender": "male",
+    "interests": ["electronics", "computers", "programming", "gaming"],
+    "others": [ "self tought developer", 
+                "built many personal projects, from telegram bots to web applications", 
+                "always looking to improve"]
   }
-}
 ```
 
 ## Languages I used
