@@ -21,7 +21,7 @@ if __name__ == "__main__":
     "interests": ["electronics", "computers", "programming", "gaming"],
     "others": [ "self tought developer", 
                 "built many personal projects, from telegram bots to web applications", 
-                "always looking to improve"]
+                "always looking to improve", "I use Arch BTW"]
   }
 ```
 
