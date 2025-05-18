@@ -1,16 +1,5 @@
 <!-- <h1 align="center"> ⚠ Attention: under construction 🛠</h1> -->
 <h1 align="center">Hello there, I'm <bold>Gabriele</bold></h1>
-<div align="center">
-  <a href="https://t.me/ai_laic_ti" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=393888547436" target="_blank">
-    <img src="https://img.shields.io/badge/-Whatsapp-darklime?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="https://twitter.com/gmercolino2003" target="_blank">
-    <img src="https://img.shields.io/badge/-twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-</div>
 
 ## About me
 ```python
