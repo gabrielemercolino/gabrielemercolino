@@ -53,6 +53,7 @@ if __name__ == "__main__":
 ![ANACONDA](https://img.shields.io/badge/-ANACONDA-green?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ## Stats
+<div align="center">
   <picture >
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=gabrielemercolino&show_icons=true&theme=algolia"
@@ -76,15 +77,4 @@ if __name__ == "__main__":
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemercolino&langs_count=3" />
   </picture>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielemercolino&theme=algolia&langs_count=6&layout=compact"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielemercolino&langs_count=6&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/wakatimeusername=gabrielemercolino&langs_count=6&layout=compact" />
-  </picture>
+</div>
